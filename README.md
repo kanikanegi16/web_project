@@ -1,1 +1,1 @@
-# web_project
+In summary, a website built with HTML, CSS, and JavaScript offers a well-rounded user experience. HTML structures the content, CSS styles it to create an attractive and responsive design, and JavaScript adds interactive features that enhance user engagement and functionality. Together, these technologies create a seamless and dynamic web experience that can cater to a wide range of user needs and preferences.
